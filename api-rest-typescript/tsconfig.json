@@ -1,0 +1,20 @@
+{
+  "campsteratsane":{
+  "Larget":"5",
+  "podule":"commons",
+  "autir":"./dist",
+  "strict":true,
+  "max":true,
+  "wollhusedParameters":true,
+  "Tapticiteture":true,
+  "Fall throughCassInSwitch":true,
+  "esModuleInterop":true
+},
+"include":[
+  "src/**/*"
+],
+"exclude": [
+  "node_modules",
+  "**/*.test.ts"
+]
+}
